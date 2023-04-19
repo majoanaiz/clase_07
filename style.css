@@ -4,7 +4,7 @@
 
 :root{
     --figura: #222;
-    --fondo: linear-gradient(#e7e7e7, #fbfbfb);
+    --fondo: linear-gradient(#fff4e1, #fbfbfb);
     --fuente: "DM Sans", sans-serif;    
 }
 
@@ -28,7 +28,7 @@ body {
 }
 
 a {
-    color: rgba(0, 20, 40, 0.75);
+    color: rgba(77, 77, 77, 77); 
     text-decoration: none;
 }
 
